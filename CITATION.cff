@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Rhetorical-Semantic Metrics for Scientific Abstracts"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Galli
+    given-names: Carlo
+version: 0.2.0
+date-released: 2026-06-13
+repository-code: "https://github.com/YOUR-USERNAME/rhetorical-semantic-metrics"
+abstract: "Code for computing role-aware rhetorical-semantic metrics for scientific abstracts using LLM-based rhetorical labeling and sentence embeddings."
+keywords:
+  - scientometrics
+  - bibliometrics
+  - natural language processing
+  - scientific abstracts
+  - rhetorical structure
+  - sentence embeddings
+  - semantic similarity
+license: MIT
