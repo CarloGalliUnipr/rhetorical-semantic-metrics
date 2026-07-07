@@ -1,0 +1,2 @@
+PMID,Dataset,Title,Abstract
+00000001,Demo,Example structured abstract,"Background: Scientific abstracts condense research communication. Aim: This example illustrates the pipeline. Methods: We segmented sentences and assigned rhetorical roles. Results: The method produced role-aware metrics. Conclusion: The framework makes semantic relations interpretable."

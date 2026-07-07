@@ -1,0 +1,20 @@
+Metric,MiniLM_Cohen_d,MPNet_Cohen_d,Same_direction,Absolute_Cohen_d_difference,Robustness_interpretation
+conclusion_plus_future_to_background_plus_aim_alignment,0.2433257218596697,0.2152614996493592,True,0.0280642222103104,Highly stable
+conclusion_to_aim_alignment,0.0873129103659394,0.0163217460975441,True,0.0709911642683952,Highly stable
+conclusion_to_background_plus_aim_alignment,0.2008189047417967,0.1693605668978985,True,0.0314583378438982,Highly stable
+conclusion_to_results_alignment,0.6443158858130312,0.6066689488904556,True,0.0376469369225755,Highly stable
+final_similarity_to_opening_anchor,0.3855307118154301,0.3629178083632132,True,0.0226129034522168,Highly stable
+local_discontinuity_burden,-0.3118926742512219,-0.2358748859081784,True,0.0760177883430434,Highly stable
+local_similarity_volatility,0.1579642057916824,0.0628532575094302,True,0.0951109482822522,Highly stable
+mean_label_confidence,-0.4542157639934588,-0.4542157639934588,True,0.0,Highly stable
+mean_local_similarity,-0.170610938050735,-0.0723535801576732,True,0.0982573578930618,Highly stable
+mean_similarity_to_opening_anchor,-0.1359673805315075,-0.1642408185606957,True,0.0282734380291881,Highly stable
+mean_similarity_to_own_role_anchor_loo,-0.1364427471808216,-0.0304509781205832,True,0.1059917690602383,Highly stable
+methods_to_aim_alignment,-0.545509114424901,-0.610963737365151,True,0.0654546229402499,Highly stable
+min_local_similarity,-0.1181239889632897,0.0289741200650448,False,0.1470981090283345,Direction changes across embedding models
+n_sentences,0.503595580720391,0.503595580720391,True,0.0,Highly stable
+results_to_aim_alignment,0.5258499515210997,0.4128719362977743,True,0.1129780152233253,Highly stable
+results_to_methods_alignment,-0.0860567440738859,0.015724210893053,False,0.1017809549669389,Direction changes across embedding models
+within_Methods_similarity,-0.1310720185752031,-0.0587328258429022,True,0.0723391927323008,Highly stable
+within_Results_similarity,-0.7045323406513088,-0.5022182517861409,True,0.2023140888651678,Moderately stable
+within_role_discontinuity_burden,-0.159511620487203,-0.1824513800918319,True,0.0229397596046289,Highly stable

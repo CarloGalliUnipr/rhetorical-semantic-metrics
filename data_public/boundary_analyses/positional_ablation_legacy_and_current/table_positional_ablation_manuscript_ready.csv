@@ -1,0 +1,6 @@
+Metric,d_role_aware,d_positional_tertiles,d_positional_quintiles,d_length_matched_template,best_positional_scheme,delta_d_role_minus_best_positional,delta_d_95CI_low,delta_d_95CI_high,interpretation
+Within-Results similarity,-0.7045323406513088,-0.2151079759128656,-0.1481949801954045,-0.4078064116780082,template,-0.2967259289733006,-0.6700425743122803,0.11163730634935,Role-aware and positional effects not clearly distinguishable
+Conclusion-Results alignment,0.6443158858130312,-0.3179826128551686,0.0462109487502723,0.4405655873267531,template,0.2037502984862781,-0.18902310087924,0.5740351409427557,Role-aware and positional effects not clearly distinguishable
+Opening-frame return,0.3855307118154301,-0.3433159365358664,-0.2339709642990576,-0.2140615056044186,tertile,0.7288466483512965,0.3385746443795512,1.167481950282096,Role-aware effect exceeds best positional analogue
+Methods-Aim alignment,-0.545509114424901,-0.2416441303892418,-0.3220054049723299,-0.0628092944778798,quintile,-0.2235037094525711,-0.6505548977541504,0.1188092861624895,Role-aware and positional effects not clearly distinguishable
+Results-Aim alignment,0.5258499515210997,-0.2416441303892418,0.0715886432002942,0.0818692266351176,template,0.443980724885982,-0.0308781717985216,0.9845082880024696,Role-aware and positional effects not clearly distinguishable

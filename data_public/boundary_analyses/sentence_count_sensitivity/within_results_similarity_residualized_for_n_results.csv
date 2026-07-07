@@ -1,0 +1,191 @@
+PMID,Title,Dataset,n_Results,within_Results_similarity,within_Results_similarity_residualized_for_n_Results,embedding_model_label
+32316357,Does Diabetes Induce the Vascular Endothelial Growth Factor (VEGF) Expression in Periodontal Tissues? A Systematic Review.,Review,2,-0.0124206524342298,-0.4095139552215909,MPNet
+39948158,The impact of e-cigarette use on periodontal health: a systematic review and meta-analysis.,Review,5,0.5114904135465622,0.112801862620514,MPNet
+40897233,Clinical outcomes of periodontal regeneration using biologic agents alone or in combination with graft materials for intrabony defects: A systematic review and meta-analysis.,Review,5,0.3612140268087387,-0.0374745241173094,MPNet
+39248301,The impact of systemic and topical antimicrobial therapy combined with non-surgical periodontal therapy: A meta-analysis.,Review,4,0.2818767835075657,-0.1162800180389201,MPNet
+27454460,Root coverage procedures improve patient aesthetics. A systematic review and Bayesian network meta-analysis.,Review,3,0.2497248947620391,-0.1479001574048844,MPNet
+26595831,Association of susceptible genotypes to periodontal disease with the clinical outcome and tooth survival after non-surgical periodontal therapy: A systematic review and meta-analysis.,Review,6,0.216466652477781,-0.1827536478278295,MPNet
+34246253,Effects of non-surgical periodontal therapy on periodontal clinical data in periodontitis patients with rheumatoid arthritis: a meta-analysis.,Review,5,0.3720388010144234,-0.0266497499116247,MPNet
+31577700,Association between the IL-10 rs1800872 polymorphisms and periodontitis susceptibility: A meta-analysis.,Review,4,0.2575921782602866,-0.1405646232861992,MPNet
+33179280,Is periodontal disease a risk indicator for colorectal cancer? A systematic review and meta-analysis.,Review,3,0.2018133302529653,-0.1958117219139582,MPNet
+41810713,Oral Health and Oral Hygiene Status Among the Particularly Vulnerable Tribal Groups (PVTGs) of India: A Systematic Review and Meta-Analysis.,Review,6,0.3082185596227645,-0.091001740682846,MPNet
+26897256,Growth factors and beta-tricalcium phosphate in the treatment of periodontal intraosseous defects: A systematic review and meta-analysis of randomised controlled trials.,Review,2,0.5514258146286011,0.1543325118412399,MPNet
+39808292,"Weighing up the potential of ""superfoods"" compounds of green tea or turmeric as adjuncts in comparison to established therapeutical approaches for periodontal disease.",Review,4,0.3485009626795848,-0.049655838866901,MPNet
+26928597,The concomitant administration of systemic amoxicillin and metronidazole compared to scaling and root planing alone in treating periodontitis: =a systematic review=.,Review,4,0.4408271908760071,0.0426703893295212,MPNet
+34608627,Periodontitis and Systemic Lupus Erythematosus: A systematic review and meta-analysis.,Review,5,0.3603105340152979,-0.0383780169107502,MPNet
+36377800,Periodontitis and risk of immune-mediated systemic conditions: A systematic review and meta-analysis.,Review,5,0.2984662480652332,-0.1002223028608149,MPNet
+24880982,Does periodontal treatment influence clinical and biochemical measures for rheumatoid arthritis? A systematic review and meta-analysis.,Review,4,0.1403913348913192,-0.2577654666551666,MPNet
+23151293,Effect of periodontal therapy on prevention of gastric Helicobacter pylori recurrence: a systematic review and meta-analysis.,Review,2,0.2413540780544281,-0.155739224732933,MPNet
+37023342,Prevalence of periodontal disease among Vietnamese adults: A systematic review and meta-analysis.,Review,4,0.3570779512325923,-0.0410788503138935,MPNet
+27825315,Periodontitis and gestational diabetes mellitus: a systematic review and meta-analysis of observational studies.,Review,6,0.4283794204394022,0.0291591201337916,MPNet
+32051966,Association Between Periodontitis and Nosocomial Pneumonia: A Systematic Review and Meta-analysis of Observational Studies.,Review,2,0.3957456052303314,-0.0013476975570297,MPNet
+31969148,Effects of non-surgical periodontal therapy on systemic inflammation and metabolic markers in patients undergoing haemodialysis and/or peritoneal dialysis: a systematic review and meta-analysis.,Review,4,0.3958455373843511,-0.0023112641621347,MPNet
+36261851,The effect of antiretroviral therapyon the periodontal conditions of patients with HIV infection: A systematic review and meta-analysis.,Review,9,0.403004290536046,0.0021887420917484,MPNet
+20024665,Photodynamic therapy as an adjunctive treatment for chronic periodontitis: a meta-analysis.,Review,3,0.1938949624697367,-0.2037300896971868,MPNet
+40335202,PERIODONTITIS AS A RISK FACTOR FOR DEMENTIA: A SYSTEMATIC REVIEW AND META-ANALYSIS.,Review,5,0.4014468239620328,0.0027582730359846,MPNet
+38629069,"Higher odds of periodontitis in systemic lupus erythematosus compared to controls and rheumatoid arthritis: a systematic review, meta-analysis and network meta-analysis.",Review,4,0.8026738464832306,0.4045170449367448,MPNet
+27796062,Oral health status of children and young adults with autism spectrum disorders: systematic review and meta-analysis.,Review,4,0.2547965471943219,-0.1433602543521639,MPNet
+35797566,A Systematic Review and Meta-Analysis of the Association Between Periodontal Disease and Severe Mental Illness.,Review,6,0.3273693660895029,-0.0718509342161076,MPNet
+33864280,Periodontal health status of children and adolescents with diabetes mellitus: a systematic review and meta-analysis.,Review,3,0.4911085764567057,0.0934835242897821,MPNet
+25261053,Global burden of severe periodontitis in 1990-2010: a systematic review and meta-regression.,Review,5,0.5811392694711686,0.1824507185451204,MPNet
+37173720,Periostin level in gingival crevicular fluid in periodontal disease: a systematic review and meta-analysis.,Review,4,0.2733991403753559,-0.1247576611711299,MPNet
+35119242,Is there an association between periodontal diseases and ABO blood group? Systematic review and meta-analysis.,Review,6,0.4817317008972168,0.0825114005916062,MPNet
+40576216,The Impacts of Probiotics Supplementation on the Treatment of Periodontitis: An Umbrella Meta-Analysis.,Review,3,0.2518215378125508,-0.1458035143543727,MPNet
+26881700,Clinical research activity in periodontal medicine: a systematic mapping of trial registers.,Review,4,0.3524574860930443,-0.0456993154534415,MPNet
+40218924,"The Role of Vitamin B Complex in Periodontal Disease: A Systematic Review Examining Supplementation Outcomes, Age Differences in Children and Adults, and Aesthetic Changes.",Review,6,0.5357998748620351,0.1365795745564245,MPNet
+33904994,Association between clinical measures of gingival inflammation and obesity in adults: systematic review and meta-analyses.,Review,6,0.3398827051122983,-0.0593375951933122,MPNet
+26932392,The effectiveness of low-level laser therapy as an adjunct to non-surgical periodontal treatment: a meta-analysis.,Review,4,0.3564882278442383,-0.0416685737022475,MPNet
+27585589,Do periapical and periodontal pathologies affect Schneiderian membrane appearance? Systematic review of studies using cone-beam computed tomography.,Review,3,0.511333147684733,0.1137080955178095,MPNet
+36746669,Effects of periodontal treatment on the C-reactive protein levels in hemodialysis patients: A systematic review and meta-analysis.,Review,5,0.4097852081060409,0.0110966571799927,MPNet
+30154031,Bariatric surgery and periodontal status: A systematic review with meta-analysis.,Review,4,0.4226945439974467,0.0245377424509609,MPNet
+34495401,Prevalence of red and orange microbial complexes in endodontic-periodontal lesions: a systematic review and meta-analysis.,Review,5,0.4849618002772331,0.0862732493511849,MPNet
+41253726,"Depression is associated with periodontitis, dental caries and edentulism: A systematic review and meta-analysis of observational studies.",Review,7,0.3085888351003329,-0.0911632145848399,MPNet
+24697584,Systematic review of the adjunctive use of diode and Nd:YAG lasers for nonsurgical periodontal instrumentation.,Review,2,-0.0023632710799574,-0.3994565738673185,MPNet
+26329272,Efficacy of adjunctive laser in non-surgical periodontal treatment: a systematic review and meta-analysis.,Review,2,0.3812594413757324,-0.0158338614116287,MPNet
+39185624,Association between Periodontal Diseases and the Risk of Site-Specific Gastrointestinal Cancers: A Systematic Review and Meta-Analysis.,Review,6,0.5676487565040589,0.1684284561984483,MPNet
+36353241,Obesity and periodontitis: A systematic review and updated meta-analysis.,Review,4,0.3908292030294736,-0.0073275985170122,MPNet
+27617985,"A Systematic Review on the Implication of Minerals in the Onset, Severity and Treatment of Periodontal Disease.",Review,2,0.4660708606243133,0.0689775578369521,MPNet
+39343995,Periodontitis and Oral Health-Related Quality of Life: A Systematic Review and Meta-Analysis.,Review,5,0.2568738833069801,-0.141814667619068,MPNet
+32052179,Clinical efficacy of minimally invasive surgical (MIS) and non-surgical (MINST) treatments of periodontal intra-bony defect. A systematic review and network meta-analysis of RCT's.,Review,6,0.2435011953115463,-0.1557191049940642,MPNet
+32233092,Do patients with aggressive and chronic periodontitis exhibit specific differences in the subgingival microbial composition? A systematic review.,Review,3,0.3583208223183949,-0.0393042298485286,MPNet
+28474968,Additive Effect of Plasma Rich in Growth Factors With Guided Tissue Regeneration in Treatment of Intrabony Defects in Patients With Chronic Periodontitis: A Split-Mouth Randomized Controlled Clinical Trial.,Clinical,6,0.4428098271290461,0.0435895268234355,MPNet
+36414947,Effects of omega-3 supplementation as an adjunct to non-surgical periodontal therapy on periodontal parameters in periodontitis patients: a randomized clinical trial.,Clinical,2,0.662718653678894,0.2656253508915329,MPNet
+27013640,Amoxicillin Plus Metronidazole Therapy for Patients with Periodontitis and Type 2 Diabetes: A 2-year Randomized Controlled Trial.,Clinical,5,0.3537694752216339,-0.0449190757044142,MPNet
+40631715,Evaluation of the periodontal status and systemic diseases in dental patients in Turkey.,Clinical,3,0.632129967212677,0.2345049150457535,MPNet
+21059869,FGF-2 stimulates periodontal regeneration: results of a multi-center randomized clinical trial.,Clinical,3,0.3022605180740356,-0.0953645340928879,MPNet
+28025432,Visfatin levels in gingival crevicular fluid and serum before and after non-surgical treatment for periodontal diseases.,Clinical,3,0.8440934816996256,0.4464684295327021,MPNet
+40123306,"Systemic Azithromycin as an Adjunct to Non-Surgical Subgingival Instrumentation in the Treatment of Stage III/IV, Grade C Periodontitis: 12-Month Clinical, Microbiological and Cytokine Results of a Randomised Controlled Trial.",Clinical,5,0.2463196150958538,-0.1523689358301943,MPNet
+27145828,"The efficacy of Er,Cr:YSGG laser supported periodontal therapy on the reduction of peridodontal disease related oral malodor: a randomized clinical study.",Clinical,3,0.3827369709809621,-0.0148880811859614,MPNet
+27477110,"Treatment of periodontal intrabony defects using autologous platelet-rich fibrin and titanium platelet-rich fibrin: a randomized, clinical, comparative study.",Clinical,2,0.0725753754377365,-0.3245179273496246,MPNet
+26811350,Periodontal disease and risk of all cancers among male never smokers: an updated analysis of the Health Professionals Follow-up Study.,Clinical,4,0.7799552182356516,0.3817984166891658,MPNet
+33687555,Changes in clinical parameters following adjunctive local sodium hypochlorite gel in minimally invasive nonsurgical therapy (MINST) of periodontal pockets: a 6-month randomized controlled clinical trial.,Clinical,6,0.4462361812591552,0.0470158809535447,MPNet
+25762359,Microbiologic Observations After Four Treatment Strategies Among Patients With Periodontitis Maintaining a High Standard of Oral Hygiene: Secondary Analysis of a Randomized Controlled Clinical Trial.,Clinical,3,0.1787837808951735,-0.21884127127175,MPNet
+28667678,"Effects of photodynamic therapy in periodontal treatment: A randomized, controlled clinical trial.",Clinical,3,0.3426493803660075,-0.054975671800916,MPNet
+23969907,Treatment of intrabony defects with anorganic bone matrix/p-15 or guided tissue regeneration in patients with aggressive periodontitis.,Clinical,6,0.354374090830485,-0.0448462094751255,MPNet
+37814261,Repurposing Metformin for periodontal disease management as a form of oral-systemic preventive medicine.,Clinical,6,0.6119540214538575,0.2127337211482469,MPNet
+25646170,Effect of a single session of antimicrobial photodynamic therapy using indocyanine green in the treatment of chronic periodontitis: a randomized controlled pilot trial.,Clinical,4,0.3149929083883762,-0.0831638931581096,MPNet
+31589587,Antimicrobial Photodynamic Therapy Using a Chloro-Aluminum Phthalocyanine Adjuvant to Nonsurgical Periodontal Treatment Does Not Improve Clinical Parameters in Patients with Chronic Periodontitis.,Clinical,2,0.5739550590515137,0.1768617562641525,MPNet
+40875065,Efficacy of maxillary occlusal splints on mobile posterior teeth in patients with stage III or IV periodontitis during steps 1 and 2 of periodontal therapy: a randomized parallel-controlled clinical trial.,Clinical,3,0.5737457076708475,0.176120655503924,MPNet
+26733449,"The relationship between recurrent aphthous stomatitis, and periodontal disease and Helicobacter Pylori infection.",Clinical,4,0.4355438351631164,0.0373870336166305,MPNet
+25972081,Platelet rich fibrin combined with decalcified freeze-dried bone allograft for the treatment of human intrabony periodontal defects: a randomized split mouth clinical trail.,Clinical,3,0.2870413859685262,-0.1105836661983973,MPNet
+40604898,Frequency of periodontal disease in head and neck cancer patients after radiation therapy: a cross-sectional study.,Clinical,7,0.4471885664832024,0.0474365167980295,MPNet
+38812644,The role of probiotics for preventing dysbiosis in periodontal disease: a randomized controlled trial.,Clinical,2,0.1510871648788452,-0.2460061379085159,MPNet
+36876718,Effect of antibiotics as an adjuvant to subgingival instrumentation on systemic inflammation in patients with periodontitis: a randomized clinical trial.,Clinical,4,0.3968803783257802,-0.0012764232207055,MPNet
+29723659,Impact of green tea intake on clinical improvement in chronic periodontitis: A randomized clinical trial.,Clinical,2,0.3888291120529175,-0.0082641907344436,MPNet
+31543299,Clinical outcomes of adjunctive indocyanine green-diode lasers therapy for treating refractory periodontitis: A randomized controlled trial with in vitro assessment.,Clinical,5,0.1878710489720106,-0.2108175019540375,MPNet
+30834725,"Clinical effect of Lactobacillus on the treatment of severe periodontitis and halitosis: A double-blinded, placebo-controlled, randomized clinical trial.",Clinical,3,0.4378717144330342,0.0402466622661106,MPNet
+40317015,"Evaluation of annexin A1, carbonic anhydrase 1, and elongation factor 1-gamma levels in periodontal diseases.",Clinical,5,0.3771657694131136,-0.0215227815129345,MPNet
+20490384,Impact of periodontal disease on quality of life.,Clinical,5,0.5474449396133423,0.1487563886872941,MPNet
+30182639,Propolis as an adjuvant to non-surgical periodontal treatment: a clinical study with salivary anti-oxidant capacity assessment.,Clinical,2,0.609715461730957,0.2126221589435958,MPNet
+27384040,Efficacy of antimicrobial photodynamic therapy as an adjuvant in periodontal treatment in Down syndrome patients.,Clinical,3,0.4817616144816081,0.0841365623146845,MPNet
+28678950,Effect of 1% sodium alendronate in the non-surgical treatment of periodontal intraosseous defects: a 6-month clinical trial.,Clinical,2,0.7147042751312256,0.3176109723438644,MPNet
+35645071,Immediate effects of diode laser (970+/-15 nm) on microbial load in patients with chronic periodontitis: A split-mouth study.,Clinical,3,0.2714629396796226,-0.1261621124873009,MPNet
+36841278,Effect of non-surgical periodontal therapy with adjunct photodynamic therapy on periodontal and glycemic statuses in prediabetic patients with periodontal disease.,Clinical,4,0.7264050543308258,0.32824825278434,MPNet
+37170229,Research efficacy of gaseous ozone therapy as an adjuvant to periodontal treatment on oxidative stress mediators in patients with type 2 diabetes: a randomized clinical trial.,Clinical,2,0.2902699112892151,-0.106823391498146,MPNet
+22694045,Clinical effects of Nd:YAG laser applications during nonsurgical periodontal treatment in smoking and nonsmoking patients with chronic periodontitis.,Clinical,3,0.4603835145632426,0.0627584623963191,MPNet
+20843236,Efficacy and safety of adjunctive local moxifloxacin delivery in the treatment of periodontitis.,Clinical,6,0.2696564063429832,-0.1295638939626273,MPNet
+37066949,The effect of motivational interviewing based on the transtheoretical model on oral cleaning behavior of patients with periodontitis who have undergone implant restoration.,Clinical,3,0.2256708989540735,-0.17195415321285,MPNet
+26932733,Influence of a triclosan toothpaste on periodontopathic bacteria and periodontitis progression in cardiovascular patients: a randomized controlled trial.,Clinical,6,0.3336578756570816,-0.0655624246485289,MPNet
+27108476,"Systemic Inflammatory Biomarkers and Their Association With Periodontal and Diabetes-Related Factors in the Diabetes and Periodontal Therapy Trial, A Randomized Controlled Trial.",Clinical,5,0.3934702515602112,-0.0052182993658369,MPNet
+26291297,Microbiologic Findings in Relation to Risk Assessment for Periodontal Disease: A Cross-Sectional Study.,Clinical,3,0.5478827555974325,0.1502577034305089,MPNet
+23866479,The relationship between periodontal disease severity and state-trait anxiety level.,Clinical,8,0.518224097987903,0.1179402989231678,MPNet
+21698987,Clinical effectiveness of a desensitizing system on dentin hypersensitivity in periodontitis patients.,Clinical,3,0.6366585493087769,0.2390334971418533,MPNet
+34409624,Levels of myeloid-related proteins in saliva for screening and monitoring of periodontal disease.,Clinical,3,0.4770802458127339,0.0794551936458103,MPNet
+30338757,Nos3 Gene Rs1799983 and Rs2070744 Polymorphisms in Patients with Periodontal Disease.,Clinical,2,0.8722456693649292,0.475152366577568,MPNet
+33011399,Effectiveness of single versus multiple sessions of photodynamic therapy as adjunct to scaling and root planing on periodontopathogenic bacteria in patients with periodontitis.,Clinical,4,0.3984245049456755,0.0002677033991896,MPNet
+27127325,Azithromycin buccal patch in treatment of chronic periodontitis.,Clinical,2,0.2735065221786499,-0.1235867806087112,MPNet
+32316357,Does Diabetes Induce the Vascular Endothelial Growth Factor (VEGF) Expression in Periodontal Tissues? A Systematic Review.,Review,2,-0.0434607006609439,-0.4001026983408037,MiniLM
+39948158,The impact of e-cigarette use on periodontal health: a systematic review and meta-analysis.,Review,5,0.4965560510754585,0.1415409394293501,MiniLM
+40897233,Clinical outcomes of periodontal regeneration using biologic agents alone or in combination with graft materials for intrabony defects: A systematic review and meta-analysis.,Review,5,0.2606164820492267,-0.0943986295968817,MiniLM
+39248301,The impact of systemic and topical antimicrobial therapy combined with non-surgical periodontal therapy: A meta-analysis.,Review,4,0.3125636180241902,-0.042993788966502,MiniLM
+27454460,Root coverage procedures improve patient aesthetics. A systematic review and Bayesian network meta-analysis.,Review,3,0.2208860417207082,-0.1352136606145678,MiniLM
+26595831,Association of susceptible genotypes to periodontal disease with the clinical outcome and tooth survival after non-surgical periodontal therapy: A systematic review and meta-analysis.,Review,6,0.1832442626357078,-0.1712285536658168,MiniLM
+34246253,Effects of non-surgical periodontal therapy on periodontal clinical data in periodontitis patients with rheumatoid arthritis: a meta-analysis.,Review,5,0.3450590103864669,-0.0099561012596415,MiniLM
+31577700,Association between the IL-10 rs1800872 polymorphisms and periodontitis susceptibility: A meta-analysis.,Review,4,0.217535350471735,-0.1380220565189572,MiniLM
+33179280,Is periodontal disease a risk indicator for colorectal cancer? A systematic review and meta-analysis.,Review,3,0.1624026745557785,-0.1936970277794975,MiniLM
+41810713,Oral Health and Oral Hygiene Status Among the Particularly Vulnerable Tribal Groups (PVTGs) of India: A Systematic Review and Meta-Analysis.,Review,6,0.2406929954886436,-0.113779820812881,MiniLM
+26897256,Growth factors and beta-tricalcium phosphate in the treatment of periodontal intraosseous defects: A systematic review and meta-analysis of randomised controlled trials.,Review,2,0.3468050956726074,-0.0098369020072523,MiniLM
+39808292,"Weighing up the potential of ""superfoods"" compounds of green tea or turmeric as adjuncts in comparison to established therapeutical approaches for periodontal disease.",Review,4,0.3611193870504697,0.0055619800597774,MiniLM
+26928597,The concomitant administration of systemic amoxicillin and metronidazole compared to scaling and root planing alone in treating periodontitis: =a systematic review=.,Review,4,0.3129593605796496,-0.0425980464110425,MiniLM
+34608627,Periodontitis and Systemic Lupus Erythematosus: A systematic review and meta-analysis.,Review,5,0.2909666926600039,-0.0640484189861045,MiniLM
+36377800,Periodontitis and risk of immune-mediated systemic conditions: A systematic review and meta-analysis.,Review,5,0.2311122827231884,-0.12390282892292,MiniLM
+24880982,Does periodontal treatment influence clinical and biochemical measures for rheumatoid arthritis? A systematic review and meta-analysis.,Review,4,0.14747462545832,-0.2080827815323722,MiniLM
+23151293,Effect of periodontal therapy on prevention of gastric Helicobacter pylori recurrence: a systematic review and meta-analysis.,Review,2,0.2429416328668594,-0.1137003648130003,MiniLM
+37023342,Prevalence of periodontal disease among Vietnamese adults: A systematic review and meta-analysis.,Review,4,0.3725159838795662,0.0169585768888739,MiniLM
+27825315,Periodontitis and gestational diabetes mellitus: a systematic review and meta-analysis of observational studies.,Review,6,0.3607375794400771,0.0062647631385524,MiniLM
+32051966,Association Between Periodontitis and Nosocomial Pneumonia: A Systematic Review and Meta-analysis of Observational Studies.,Review,2,0.3086702227592468,-0.0479717749206129,MiniLM
+31969148,Effects of non-surgical periodontal therapy on systemic inflammation and metabolic markers in patients undergoing haemodialysis and/or peritoneal dialysis: a systematic review and meta-analysis.,Review,4,0.3488778074582417,-0.0066795995324505,MiniLM
+36261851,The effect of antiretroviral therapyon the periodontal conditions of patients with HIV infection: A systematic review and meta-analysis.,Review,9,0.3245007876410252,-0.0283451426267481,MiniLM
+20024665,Photodynamic therapy as an adjunctive treatment for chronic periodontitis: a meta-analysis.,Review,3,0.1319702342152595,-0.2241294681200165,MiniLM
+40335202,PERIODONTITIS AS A RISK FACTOR FOR DEMENTIA: A SYSTEMATIC REVIEW AND META-ANALYSIS.,Review,5,0.3383301664143801,-0.0166849452317283,MiniLM
+38629069,"Higher odds of periodontitis in systemic lupus erythematosus compared to controls and rheumatoid arthritis: a systematic review, meta-analysis and network meta-analysis.",Review,4,0.7363630831241608,0.3808056761334685,MiniLM
+27796062,Oral health status of children and young adults with autism spectrum disorders: systematic review and meta-analysis.,Review,4,0.210253636042277,-0.1453037709484152,MiniLM
+35797566,A Systematic Review and Meta-Analysis of the Association Between Periodontal Disease and Severe Mental Illness.,Review,6,0.2829083636403083,-0.0715644526612163,MiniLM
+33864280,Periodontal health status of children and adolescents with diabetes mellitus: a systematic review and meta-analysis.,Review,3,0.4096372326215108,0.0535375302862348,MiniLM
+25261053,Global burden of severe periodontitis in 1990-2010: a systematic review and meta-regression.,Review,5,0.5456070184707642,0.1905919068246557,MiniLM
+37173720,Periostin level in gingival crevicular fluid in periodontal disease: a systematic review and meta-analysis.,Review,4,0.2710414019723733,-0.0845160050183189,MiniLM
+35119242,Is there an association between periodontal diseases and ABO blood group? Systematic review and meta-analysis.,Review,6,0.4013076777259509,0.0468348614244262,MiniLM
+40576216,The Impacts of Probiotics Supplementation on the Treatment of Periodontitis: An Umbrella Meta-Analysis.,Review,3,0.2105015019575754,-0.1455982003777006,MiniLM
+26881700,Clinical research activity in periodontal medicine: a systematic mapping of trial registers.,Review,4,0.3741221390664577,0.0185647320757654,MiniLM
+40218924,"The Role of Vitamin B Complex in Periodontal Disease: A Systematic Review Examining Supplementation Outcomes, Age Differences in Children and Adults, and Aesthetic Changes.",Review,6,0.4615701705217361,0.1070973542202114,MiniLM
+33904994,Association between clinical measures of gingival inflammation and obesity in adults: systematic review and meta-analyses.,Review,6,0.2670544466624657,-0.0874183696390589,MiniLM
+26932392,The effectiveness of low-level laser therapy as an adjunct to non-surgical periodontal treatment: a meta-analysis.,Review,4,0.2185041817526022,-0.13705322523809,MiniLM
+27585589,Do periapical and periodontal pathologies affect Schneiderian membrane appearance? Systematic review of studies using cone-beam computed tomography.,Review,3,0.417594109972318,0.061494407637042,MiniLM
+36746669,Effects of periodontal treatment on the C-reactive protein levels in hemodialysis patients: A systematic review and meta-analysis.,Review,5,0.2202172972261905,-0.1347978144199179,MiniLM
+30154031,Bariatric surgery and periodontal status: A systematic review with meta-analysis.,Review,4,0.2989189152916272,-0.056638491699065,MiniLM
+34495401,Prevalence of red and orange microbial complexes in endodontic-periodontal lesions: a systematic review and meta-analysis.,Review,5,0.3970614723861217,0.0420463607400132,MiniLM
+41253726,"Depression is associated with periodontitis, dental caries and edentulism: A systematic review and meta-analysis of observational studies.",Review,7,0.2669146686260189,-0.0870158523309219,MiniLM
+24697584,Systematic review of the adjunctive use of diode and Nd:YAG lasers for nonsurgical periodontal instrumentation.,Review,2,0.1094104200601577,-0.247231577619702,MiniLM
+26329272,Efficacy of adjunctive laser in non-surgical periodontal treatment: a systematic review and meta-analysis.,Review,2,0.2281898856163025,-0.1284521120635572,MiniLM
+39185624,Association between Periodontal Diseases and the Risk of Site-Specific Gastrointestinal Cancers: A Systematic Review and Meta-Analysis.,Review,6,0.5152062430977822,0.1607334267962575,MiniLM
+36353241,Obesity and periodontitis: A systematic review and updated meta-analysis.,Review,4,0.3401914437611897,-0.0153659632295025,MiniLM
+27617985,"A Systematic Review on the Implication of Minerals in the Onset, Severity and Treatment of Periodontal Disease.",Review,2,0.5075961351394653,0.1509541374596055,MiniLM
+39343995,Periodontitis and Oral Health-Related Quality of Life: A Systematic Review and Meta-Analysis.,Review,5,0.2214984100311994,-0.133516701614909,MiniLM
+32052179,Clinical efficacy of minimally invasive surgical (MIS) and non-surgical (MINST) treatments of periodontal intra-bony defect. A systematic review and network meta-analysis of RCT's.,Review,6,0.2239878848195076,-0.130484931482017,MiniLM
+32233092,Do patients with aggressive and chronic periodontitis exhibit specific differences in the subgingival microbial composition? A systematic review.,Review,3,0.3224424570798874,-0.0336572452553886,MiniLM
+28474968,Additive Effect of Plasma Rich in Growth Factors With Guided Tissue Regeneration in Treatment of Intrabony Defects in Patients With Chronic Periodontitis: A Split-Mouth Randomized Controlled Clinical Trial.,Clinical,6,0.4307608405749003,0.0762880242733756,MiniLM
+36414947,Effects of omega-3 supplementation as an adjunct to non-surgical periodontal therapy on periodontal parameters in periodontitis patients: a randomized clinical trial.,Clinical,2,0.4364216327667236,0.0797796350868638,MiniLM
+27013640,Amoxicillin Plus Metronidazole Therapy for Patients with Periodontitis and Type 2 Diabetes: A 2-year Randomized Controlled Trial.,Clinical,5,0.2710180014371872,-0.0839971102089212,MiniLM
+40631715,Evaluation of the periodontal status and systemic diseases in dental patients in Turkey.,Clinical,3,0.5701519449551901,0.214052242619914,MiniLM
+21059869,FGF-2 stimulates periodontal regeneration: results of a multi-center randomized clinical trial.,Clinical,3,0.2731861074765523,-0.0829135948587236,MiniLM
+28025432,Visfatin levels in gingival crevicular fluid and serum before and after non-surgical treatment for periodontal diseases.,Clinical,3,0.8064718047777811,0.4503721024425051,MiniLM
+40123306,"Systemic Azithromycin as an Adjunct to Non-Surgical Subgingival Instrumentation in the Treatment of Stage III/IV, Grade C Periodontitis: 12-Month Clinical, Microbiological and Cytokine Results of a Randomised Controlled Trial.",Clinical,5,0.2884643066674471,-0.0665508049786613,MiniLM
+27145828,"The efficacy of Er,Cr:YSGG laser supported periodontal therapy on the reduction of peridodontal disease related oral malodor: a randomized clinical study.",Clinical,3,0.4697772761185964,0.1136775737833203,MiniLM
+27477110,"Treatment of periodontal intrabony defects using autologous platelet-rich fibrin and titanium platelet-rich fibrin: a randomized, clinical, comparative study.",Clinical,2,0.2334415018558502,-0.1232004958240095,MiniLM
+26811350,Periodontal disease and risk of all cancers among male never smokers: an updated analysis of the Health Professionals Follow-up Study.,Clinical,4,0.7243883609771729,0.3688309539864806,MiniLM
+33687555,Changes in clinical parameters following adjunctive local sodium hypochlorite gel in minimally invasive nonsurgical therapy (MINST) of periodontal pockets: a 6-month randomized controlled clinical trial.,Clinical,6,0.3831427643696467,0.028669948068122,MiniLM
+25762359,Microbiologic Observations After Four Treatment Strategies Among Patients With Periodontitis Maintaining a High Standard of Oral Hygiene: Secondary Analysis of a Randomized Controlled Clinical Trial.,Clinical,3,0.1698278014858563,-0.1862719008494197,MiniLM
+28667678,"Effects of photodynamic therapy in periodontal treatment: A randomized, controlled clinical trial.",Clinical,3,0.3375647912422816,-0.0185349110929943,MiniLM
+23969907,Treatment of intrabony defects with anorganic bone matrix/p-15 or guided tissue regeneration in patients with aggressive periodontitis.,Clinical,6,0.3945179720719655,0.0400451557704408,MiniLM
+37814261,Repurposing Metformin for periodontal disease management as a form of oral-systemic preventive medicine.,Clinical,6,0.6075129032135009,0.2530400869119762,MiniLM
+25646170,Effect of a single session of antimicrobial photodynamic therapy using indocyanine green in the treatment of chronic periodontitis: a randomized controlled pilot trial.,Clinical,4,0.2960715653995673,-0.0594858415911249,MiniLM
+31589587,Antimicrobial Photodynamic Therapy Using a Chloro-Aluminum Phthalocyanine Adjuvant to Nonsurgical Periodontal Treatment Does Not Improve Clinical Parameters in Patients with Chronic Periodontitis.,Clinical,2,0.5434547066688538,0.186812708988994,MiniLM
+40875065,Efficacy of maxillary occlusal splints on mobile posterior teeth in patients with stage III or IV periodontitis during steps 1 and 2 of periodontal therapy: a randomized parallel-controlled clinical trial.,Clinical,3,0.5083555579185486,0.1522558555832726,MiniLM
+26733449,"The relationship between recurrent aphthous stomatitis, and periodontal disease and Helicobacter Pylori infection.",Clinical,4,0.3741895693043868,0.0186321623136945,MiniLM
+25972081,Platelet rich fibrin combined with decalcified freeze-dried bone allograft for the treatment of human intrabony periodontal defects: a randomized split mouth clinical trail.,Clinical,3,0.226998413602511,-0.129101288732765,MiniLM
+40604898,Frequency of periodontal disease in head and neck cancer patients after radiation therapy: a cross-sectional study.,Clinical,7,0.4147358918119044,0.0608053708549635,MiniLM
+38812644,The role of probiotics for preventing dysbiosis in periodontal disease: a randomized controlled trial.,Clinical,2,0.167282685637474,-0.1893593120423857,MiniLM
+36876718,Effect of antibiotics as an adjuvant to subgingival instrumentation on systemic inflammation in patients with periodontitis: a randomized clinical trial.,Clinical,4,0.4197737574577331,0.0642163504670408,MiniLM
+29723659,Impact of green tea intake on clinical improvement in chronic periodontitis: A randomized clinical trial.,Clinical,2,0.4989075660705566,0.1422655683906968,MiniLM
+31543299,Clinical outcomes of adjunctive indocyanine green-diode lasers therapy for treating refractory periodontitis: A randomized controlled trial with in vitro assessment.,Clinical,5,0.2088198095560073,-0.1461953020901011,MiniLM
+30834725,"Clinical effect of Lactobacillus on the treatment of severe periodontitis and halitosis: A double-blinded, placebo-controlled, randomized clinical trial.",Clinical,3,0.3218411306540171,-0.0342585716812589,MiniLM
+40317015,"Evaluation of annexin A1, carbonic anhydrase 1, and elongation factor 1-gamma levels in periodontal diseases.",Clinical,5,0.3432912612333894,-0.011723850412719,MiniLM
+20490384,Impact of periodontal disease on quality of life.,Clinical,5,0.4923224732279777,0.1373073615818692,MiniLM
+30182639,Propolis as an adjuvant to non-surgical periodontal treatment: a clinical study with salivary anti-oxidant capacity assessment.,Clinical,2,0.4189517498016357,0.0623097521217759,MiniLM
+27384040,Efficacy of antimicrobial photodynamic therapy as an adjuvant in periodontal treatment in Down syndrome patients.,Clinical,3,0.3616301715373993,0.0055304692021233,MiniLM
+28678950,Effect of 1% sodium alendronate in the non-surgical treatment of periodontal intraosseous defects: a 6-month clinical trial.,Clinical,2,0.6696263551712036,0.3129843574913438,MiniLM
+35645071,Immediate effects of diode laser (970+/-15 nm) on microbial load in patients with chronic periodontitis: A split-mouth study.,Clinical,3,0.2157390415668487,-0.1403606607684273,MiniLM
+36841278,Effect of non-surgical periodontal therapy with adjunct photodynamic therapy on periodontal and glycemic statuses in prediabetic patients with periodontal disease.,Clinical,4,0.6859487990538279,0.3303913920631356,MiniLM
+37170229,Research efficacy of gaseous ozone therapy as an adjuvant to periodontal treatment on oxidative stress mediators in patients with type 2 diabetes: a randomized clinical trial.,Clinical,2,0.236421450972557,-0.1202205467073027,MiniLM
+22694045,Clinical effects of Nd:YAG laser applications during nonsurgical periodontal treatment in smoking and nonsmoking patients with chronic periodontitis.,Clinical,3,0.4404099980990092,0.0843102957637332,MiniLM
+20843236,Efficacy and safety of adjunctive local moxifloxacin delivery in the treatment of periodontitis.,Clinical,6,0.2475818733374278,-0.1068909429640968,MiniLM
+37066949,The effect of motivational interviewing based on the transtheoretical model on oral cleaning behavior of patients with periodontitis who have undergone implant restoration.,Clinical,3,0.1506300568580627,-0.2054696454772133,MiniLM
+26932733,Influence of a triclosan toothpaste on periodontopathic bacteria and periodontitis progression in cardiovascular patients: a randomized controlled trial.,Clinical,6,0.3240299115578333,-0.0304429047436913,MiniLM
+27108476,"Systemic Inflammatory Biomarkers and Their Association With Periodontal and Diabetes-Related Factors in the Diabetes and Periodontal Therapy Trial, A Randomized Controlled Trial.",Clinical,5,0.358253413438797,0.0032383017926885,MiniLM
+26291297,Microbiologic Findings in Relation to Risk Assessment for Periodontal Disease: A Cross-Sectional Study.,Clinical,3,0.4975394606590271,0.1414397583237511,MiniLM
+23866479,The relationship between periodontal disease severity and state-trait anxiety level.,Clinical,8,0.4939772372932306,0.1405890116808735,MiniLM
+21698987,Clinical effectiveness of a desensitizing system on dentin hypersensitivity in periodontitis patients.,Clinical,3,0.5494977831840515,0.1933980808487755,MiniLM
+34409624,Levels of myeloid-related proteins in saliva for screening and monitoring of periodontal disease.,Clinical,3,0.4199754893779754,0.0638757870426994,MiniLM
+30338757,Nos3 Gene Rs1799983 and Rs2070744 Polymorphisms in Patients with Periodontal Disease.,Clinical,2,0.818384051322937,0.4617420536430772,MiniLM
+33011399,Effectiveness of single versus multiple sessions of photodynamic therapy as adjunct to scaling and root planing on periodontopathogenic bacteria in patients with periodontitis.,Clinical,4,0.3711775243282318,0.0156201173375395,MiniLM
+27127325,Azithromycin buccal patch in treatment of chronic periodontitis.,Clinical,2,0.3301398754119873,-0.0265021222678724,MiniLM

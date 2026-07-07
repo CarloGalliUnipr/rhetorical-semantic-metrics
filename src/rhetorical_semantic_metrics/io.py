@@ -1,0 +1,10 @@
+from pathlib import Path
+import pandas as pd
+
+def read_csv(path):
+    return pd.read_csv(path)
+
+def write_csv(df, path):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(path, index=False)

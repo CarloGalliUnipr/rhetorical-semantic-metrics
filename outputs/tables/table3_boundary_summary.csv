@@ -1,0 +1,4 @@
+Metric,Role-aware d,Positional baseline,Lexical / TF-IDF analogue,MPNet d,Sentence-count control,Verdict
+Within-Results similarity,-0.705,"Best positional d = -0.408; Δd = -0.297, 95% CI -0.670 to 0.112",TF-IDF d = -0.580,-0.502,Stable after adjustment and residualization,"Larger and interpretable, but not clearly separable from position"
+Conclusion–Results alignment,0.644,"Best positional d = 0.441; Δd = 0.204, 95% CI -0.189 to 0.574",TF-IDF d = 0.317,0.607,Not applicable,"Larger and interpretable, but not clearly separable from position"
+"Opening-frame return, symmetric",0.201,"Fair positional-tertile d = 0.217; Δd = -0.017, 95% CI -0.429 to 0.411",—,—,Not applicable,Not separable from position

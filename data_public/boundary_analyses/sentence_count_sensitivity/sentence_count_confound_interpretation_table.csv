@@ -1,0 +1,3 @@
+embedding_model_label,crude_mean_difference_review_minus_clinical,crude_cohens_d_review_minus_clinical,adjusted_dataset_beta_M1,adjusted_dataset_p_M1,adjusted_dataset_ci_low_M1,adjusted_dataset_ci_high_M1,matched_mean_difference_review_minus_clinical,matched_cohens_d_review_minus_clinical,interpretation
+MiniLM,-0.1031772603092776,-0.7045323406513088,-0.1061986887679785,0.0005364919485042,-0.1663243684914353,-0.0460730090445218,-0.2257498829648777,-1.472104059960105,Difference broadly survives adjustment for Results sentence count
+MPNet,-0.0825211098321918,-0.5022182517861409,-0.0854810486854767,0.0132606502453966,-0.1531276584609668,-0.0178344389099866,-0.2682949412075587,-1.7144153734990628,Difference broadly survives adjustment for Results sentence count

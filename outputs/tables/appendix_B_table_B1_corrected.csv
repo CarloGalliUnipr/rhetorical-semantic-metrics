@@ -1,0 +1,6 @@
+Metric,Role-aware d,Positional tertiles d,Positional quintiles d,Length-matched template d,Comparator used for Δd,Δd,95% CI for Δd,Interpretation
+Within-Results similarity,-0.705,-0.215,-0.148,-0.408,Length-matched template,-0.297,-0.670 to 0.112,"Role-aware effect larger and interpretable, but not clearly separable from position"
+Conclusion–Results alignment,0.644,-0.318,0.046,0.441,Length-matched template,0.204,-0.189 to 0.574,"Role-aware effect larger and interpretable, but not clearly separable from position"
+"Opening-frame return, strict centroid comparison",0.201,0.217,0.424,0.299,Fair positional-tertile centroid comparison,-0.017,-0.429 to 0.411,Not separable from position
+"Methods–Aim alignment, exploratory",-0.546,-0.242,-0.322,-0.063,Quintile baseline,-0.224,-0.651 to 0.119,"Exploratory; role-aware effect larger, but uncertain"
+"Results–Aim alignment, exploratory",0.526,-0.242,0.072,0.082,Length-matched template,0.444,-0.031 to 0.985,"Exploratory; possible added value, but uncertain"
